@@ -1,0 +1,28 @@
+Store: Mini Wok
+Sweet and Sour Fish Rice:$6.50:9.00:15.00:1;2;3;4;5;6;7:3:
+Thai Style Fish Rice:$6.50:9.00:13.00:1;2;3;4;5;6;7:3:
+Sweet and Sour Chicken Rice:$5.50:9.00:13.00:1;2;3;4;5;6;7:3:
+Thai Style Chicken Rice:$5.50:9.00:13.00:0;2;3;4;5;6;7:3:
+Dried Chilli Chicken Rice:$7.00:9.00:13.00:1;2;3;4;5;6;7:3:
+Store: Malay
+Fish Cutlet Bee Hoon:$6.50:13.00:19.00:1;2;3;4;5;6;7:4:
+Hokkien Noodles:$6.50:13.00:19.00:1;2;3;4;5;6;7:4:
+Fried Kway Teow:$5.50:13.00:19.00:1;2;3;4;5;6;7:4:
+Store: Chinese
+Mongolian Chicken Rice:$7.00:9.00:13.00:1;3;4;5;6;7:3:
+Chicken Cutlet Hor Fun:$6.50:13.00:19.00:1;2;3;4;5;6;7:3:
+Chicken Cutlet Bee Hoon:$6.50:13.00:19.00:1;2;3;4;5;6;7:3:
+Store: McDonald's
+Big Breakfast:$7.60:07.00:11.00:1;2;3;4;5;6;7:2:
+Chicken Muffin with Egg:$5.60:07.00:11.00:1;2;3;4;5;6;7:2:
+Breakfast Wrap Chicken Sausage:$6.70:07.00:11.00:1;2;3;4;5;6;7:2:
+Fillet-O-Fish:$6.55:11.00:23.59:1;2;3;4;5;6;7:2:
+McSpicy:$7.90:11.00:23.59:1;2;3;4;5;6;7:2:
+McChicken:$5.95:11.00:23.59:1;2;3;4;5;6;7:2:
+6 pc Chicken McNuggets Meal:$6.85:11.00:23.59:1;3;4;5;6;7:2:
+Store: Subway
+Egg & Cheese Flatbread:$6.50:08.00:11.00:1;2;3;4;5;6;7:5:
+Chicken Sausage, Egg & Cheese:$6.50:08.00:11.00:1;2;3;4;5;6;7:5:
+Egg Mayo 6 Inch:$5.50:11.00:21.00:1;2;3;4;5;6;7:5:
+Cold Cut Trio 6 Inch:$5.50:11.00:21.00:1;2;3;4;5;6;7:5:
+end:
